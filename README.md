@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ansariakram82
+- 👋 Hi, I’m Mohd Akram Ansari(@ansariakram82)
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning MERN Satck
 - 💞️ I’m looking to collaborate on Front-end development 
